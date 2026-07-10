@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738294489095",
+    "project_id": "fire-base-la-para",
+    "storage_bucket": "fire-base-la-para.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738294489095:android:8c3c79d1808e2bbfe08aa2",
+        "android_client_info": {
+          "package_name": "edu.ucne.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738294489095-j4aismu6gpjhj6honff8b1s1jgod0s8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKXxiywEDCZMApgfSD3EpKzGl3E8hxfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738294489095-j4aismu6gpjhj6honff8b1s1jgod0s8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
